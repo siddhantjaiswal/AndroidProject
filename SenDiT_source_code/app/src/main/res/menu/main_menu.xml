@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Theme" app:showAsAction="never"
+        android:id="@+id/theme"
+        />
+    <item android:title="Settings" app:showAsAction="never"
+        android:id="@+id/Settings"
+        />
+    <item android:title="AboutUs" app:showAsAction="never"
+        android:id="@+id/aboutus"
+        />
+<item android:title="SignOut" app:showAsAction="never"
+    android:id="@+id/menu_sign_out"
+    />
+
+
+</menu>
